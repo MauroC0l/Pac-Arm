@@ -86,6 +86,6 @@ Integration of multimedia and communication protocols in an embedded context
 
 ## 🧑‍💻 Credits
 
-Developed by Lorenzo Iantosca
+Developed by Mauro Colopi
 Under the supervision of the Computer Systems Architecture course (PoliTo) — Academic Year 2024/2025.
 Inspired by PacMan (Namco, 1980).
