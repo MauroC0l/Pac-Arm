@@ -84,7 +84,7 @@ Use of Keil debugging tools for development and testing
 
 Integration of multimedia and communication protocols in an embedded context
 
-/## 🧑‍💻 Credits
+## 🧑‍💻 Credits
 
 Developed by Lorenzo Iantosca
 Under the supervision of the Computer Systems Architecture course (PoliTo) — Academic Year 2024/2025.
